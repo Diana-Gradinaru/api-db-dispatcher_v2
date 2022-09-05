@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.4.4.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -94,7 +94,7 @@
         "editingStatus": "InProgress",
         "testCaseId": "79cb52ef-4456-4be5-9f1d-e2d9386a6be9",
         "testCaseType": "TestCase",
-        "fileName": "Tests\\BusinessLayer\\TestCase_AddMoviesToQueue.xaml"
+        "fileName": "Tests\\DataLayer\\TestCase_AddMoviesToQueue.xaml"
       }
     ],
     "modernBehavior": true
